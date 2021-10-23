@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+
+body {
+background-color: rgb(212, 240, 181);
+}
+
+.heading {
+    text-align: center;
+    color: rgb(85, 33, 49);
+    font-family: 'Architects Daughter', cursive;
+    font-size: 5rem;
+}
+
+
+.ingridients {
+    border: 1px solid black;
+width: 50%;
+margin: 0 auto;
+padding-top: 90px;
+padding-bottom: 30px;
+
+}
+.ingridients-table {
+    border: 1px solid black;
+margin-left: 15rem;
+}
+
+.instructions {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.instructions ol {
+    
+    margin: 0 autp;
+    width: 75%;
+}
+
+.instructions-heading {
+    margin: 0 auto;
+    color: rgb(228, 39, 96);
+    margin-left: 1rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+
+.picture{
+margin-left: 5rem;
+margin-top: 1rem;
+
+}
+
+.footer {
+    color: darkblue;
+    font-family: 'Zen Antique', serif;
+    font-size: 1rem;
+    text-align: center;
+}
